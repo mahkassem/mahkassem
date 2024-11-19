@@ -3,6 +3,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[![My Medium story](@mahmoud-kassem&index=1)](#)">https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@mahmoud-kassem&index=1&source=medium)](#)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
