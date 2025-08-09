@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Kassem</h1>
+<h1 align="center">Mahmoud Kassem</h1>
 <h3 align="center">Software Engineer | Instructor</h3>
 
 <!-- BLOG-POST-LIST:END -->
